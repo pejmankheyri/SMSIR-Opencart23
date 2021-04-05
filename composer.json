@@ -1,0 +1,15 @@
+{
+    "name": "pejmankheyri/smsir-opencart23",
+    "description": "send sms via sms.ir",
+    "keywords": ["php", "php7.4", "php7.3", "php7.2", "php5.6", "sms", "sms-notifications", "opencart", "e-commerce", "shop", "shopping", "opencart23"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pejmankheyri",
+            "email": "pejmankheyri@gmail.com"
+        }
+    ],
+    "require": {
+        
+    }
+}
