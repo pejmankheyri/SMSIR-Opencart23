@@ -10,67 +10,67 @@
 </p>
 <div dir="rtl">
 
-# ارسال پیامک به مشتریان در سیستم فروشگاهی اوپن کارت
+# Sending SMS to customers in the Opencart store system
 
- یک افزونه کاربردی برای سیستم فروشگاهی رایگان اوپن کارت می باشد که شما را قادر می سازد تا براحتی اقدام به اطلاع رسانی از طریق پیامک به کاربرانتان کنید.
+ It is a functional plugin for the free Opencart store system that enables you to easily notify your users via SMS.
 
 
-> [نصب با آپلود فایل](https://github.com/pejmankheyri/SMSIR-Opencart23#%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%A2%D9%BE%D9%84%D9%88%D8%AF-%D9%81%D8%A7%DB%8C%D9%84)
+> [Install by uploading a file](https://github.com/pejmankheyri/SMSIR-Opencart23#%D9%86%D8%B5%D8%A8-%D8%A8%D8%A7-%D8%A2%D9%BE%D9%84%D9%88%D8%AF-%D9%81%D8%A7%DB%8C%D9%84)
 > 
-> [امکانات](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
+> [Features](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%A7%D9%85%DA%A9%D8%A7%D9%86%D8%A7%D8%AA)
 > 
-> [تنظیمات](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
+> [Settings](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
 > 
-> [کمک به توسعه](https://github.com/pejmankheyri/SMSIR-Opencart23#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
+> [Development Assistance](https://github.com/pejmankheyri/SMSIR-Opencart23#%DA%A9%D9%85%DA%A9-%D8%A8%D9%87-%D8%AA%D9%88%D8%B3%D8%B9%D9%87)
 > 
-> [لایسنس](https://github.com/pejmankheyri/SMSIR-Opencart23#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
+> [License](https://github.com/pejmankheyri/SMSIR-Opencart23#%D9%84%D8%A7%DB%8C%D8%B3%D9%86%D8%B3)
 > 
-> [تصاویر افزونه](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87)
+> [Plugin Images](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D8%A7%D9%81%D8%B2%D9%88%D9%86%D9%87)
 
-## نصب با آپلود فایل
+## Install by uploading a file
 
-* پوشه `SMSIR-Opencart23` را در مسیر اصلی پروژه اوپن کارت کپی کنید.
-* افزونه را از طریق منوی `ماژول ها` در اوپن کارت نصب کنید.
-* با زدن ویرایش به صفحه مدیریت افزونه بروید
-* [تنظیمات افزونه را در تب `عمومی` انجام دهید.](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
+* Copy the `SMS IR-Opencart 23` folder to the main path of the Opencart project.
+* Install the plugin through the `Modules` menu in Opencart.
+* Go to the plugin management page by clicking edit
+* [Configure the plugin in the `General` tab.](https://github.com/pejmankheyri/SMSIR-Opencart23#%D8%AA%D9%86%D8%B8%DB%8C%D9%85%D8%A7%D8%AA)
 
-## امکانات
+## Features
 
-* ارسال پیامک یکجا به همه مشتریانی که در سیستم فروشگاه هستند
-* ارسال پیامک به مشتریان خاص در سیستم فروشگاهی
-* ارسال پیامک به شماره موبایل های خاص
-* ارسال پیامک به مشتریانی که محصول خاصی را در سیستم سفارش داده اند
-* ارسال پیامک به گروه های مشتری خاص سیستم
-* ارسال پیامک به همه مخاطبین باشگاه مشتریان پنل sms.ir
-* ارسال پیامک به اعضای خبرنامه سیستم فروشگاه
-* ارسال پیامک یکجا به همه بازاریاب های فروشگاه اوپن کارت
-* ارسال پیامک به بازاریاب های خاص سیستم فروشگاه 
-* ارسال پیامک تعاملی به مشتریان هنگام ثبت سفارش جدید
-* ارسال پیامک تعاملی به مشتریان هنگام تغییر وضعیت سفارش در تمامی حالت ها
-* ارسال پیامک تعاملی به مشتریان هنگام ثبت نام مشتری جدید در سیستم
-* ارسال پیامک تعاملی به مدیران هنگام ثبت سفارش جدید در سیستم
-* ارسال پیامک تعاملی به مدیران هنگام ثبت نام مشتری جدید در سیستم
-* امکان افزودن نامحدود شماره موبایل های مدیران سیستم
+* Sending SMS at once to all customers who are in the store system
+* Sending SMS to specific customers in the store system
+* Sending SMS to specific mobile numbers
+* Sending SMS to customers who have ordered a specific product in the system
+* Sending SMS to specific customer groups of the system
+* Send SMS to all contacts of sms.ir customer club
+* Sending SMS to members of the store system newsletter
+* Send SMS to all marketers of Opencart store
+* Sending SMS to specific marketers of the store system
+* Sending interactive SMS to customers when registering a new order
+* Sending interactive SMS to customers when changing order status in all modes
+* Sending interactive SMS to customers when registering a new customer in the system
+* Sending interactive SMS to managers when registering a new order in the system
+* Sending interactive SMS to managers when registering a new customer in the system
+* Ability to add unlimited mobile numbers of system administrators
 
-## تنظیمات
+## Settings
 
-* تنظیمات اصلی افزونه شامل جدول زیر می باشد:
+* The main settings of the plugin include the following table:
 
-    | تنظیمات | توضیح |
+    | Settings | Description |
     | ------ | ------ |
-    | لینک وب سرویس | لینک وب سرویسی که پنل ارسال پیامک از آن استفاده می کند (https://ws.sms.ir/) |
-    | کلید وب سرویس | کلید وب سرویس پنل پیامک sms.ir |
-    | کد امنیتی | کد امنیتی پنل پیامک sms.ir |
-    | شماره ارسال کننده | شماره ارسال کننده پنل پیامک sms.ir |
-    | ارسال از طریق باشگاه مشتریان | باید ماژول باشگاه مشتریان خریداری شود و سپس ارسال از آن طریق انجام می شود |
+    | Web service link | The web service link used by the SMS sending panel (https://ws.sms.ir/) |
+    | Web service key | SMS panel web service key sms.ir |
+    | Security code | SMS panel security code sms.ir |
+    | Sender number | SMS panel sender number sms.ir |
+    | Send through customer club | The customer club module must be purchased and then shipping is done through it |
 
-## کمک به توسعه
+## Development Assistance
 
-از Pull request ها استقبال می کنیم.
+We welcome pull requests.
 
-برای تغییرات عمده ، لطفاً ابتدا یک issue را باز کنید تا در مورد آنچه می خواهید تغییر دهیم و بحث کنیم.
+For major changes, please open an issue first so we can discuss what you want to change.
 
-## لایسنس
+## License
 
 MIT
 
@@ -78,17 +78,17 @@ MIT
 
 <div dir="rtl">
 
-## تصاویر افزونه
+## Plugin Images
 
-* <a href="https://user-images.githubusercontent.com/3329008/113600540-68d35900-9655-11eb-9db6-3555be8176d5.png" target="_blank">تصویر 01</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113600563-72f55780-9655-11eb-93bf-c25a12799804.png" target="_blank">تصویر 02</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113600910-ebf4af00-9655-11eb-97a4-2ecea5e43fa7.png" target="_blank">تصویر 03</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113601196-44c44780-9656-11eb-8d81-c600a2862350.png" target="_blank">تصویر 04</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113601344-7210f580-9656-11eb-99b4-0e866f5e6eda.png" target="_blank">تصویر 05</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113601382-7e954e00-9656-11eb-8370-384849f22a9b.png" target="_blank">تصویر 06</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113601422-8ead2d80-9656-11eb-972c-8ec27259b1d0.png" target="_blank">تصویر 07</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113601452-98cf2c00-9656-11eb-8763-66d30d7f3714.png" target="_blank">تصویر 08</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113601549-b8feeb00-9656-11eb-8ee0-621f27d727ec.png" target="_blank">تصویر 09</a>
-* <a href="https://user-images.githubusercontent.com/3329008/113602284-ab963080-9657-11eb-9046-0603d6795242.png" target="_blank">تصویر 10</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113600540-68d35900-9655-11eb-9db6-3555be8176d5.png" target="_blank">Image 01</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113600563-72f55780-9655-11eb-93bf-c25a12799804.png" target="_blank">Image 02</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113600910-ebf4af00-9655-11eb-97a4-2ecea5e43fa7.png" target="_blank">Image 03</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113601196-44c44780-9656-11eb-8d81-c600a2862350.png" target="_blank">Image 04</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113601344-7210f580-9656-11eb-99b4-0e866f5e6eda.png" target="_blank">Image 05</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113601382-7e954e00-9656-11eb-8370-384849f22a9b.png" target="_blank">Image 06</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113601422-8ead2d80-9656-11eb-972c-8ec27259b1d0.png" target="_blank">Image 07</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113601452-98cf2c00-9656-11eb-8763-66d30d7f3714.png" target="_blank">Image 08</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113601549-b8feeb00-9656-11eb-8ee0-621f27d727ec.png" target="_blank">Image 09</a>
+* <a href="https://user-images.githubusercontent.com/3329008/113602284-ab963080-9657-11eb-9046-0603d6795242.png" target="_blank">Image 10</a>
 
 </div>
